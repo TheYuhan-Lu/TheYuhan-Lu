@@ -1,7 +1,6 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=panda" align="right">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
 
