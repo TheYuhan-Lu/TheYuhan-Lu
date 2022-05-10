@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=panda" align="right" width="300">
+<img src="https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=panda" align="right" width="400">
 
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
