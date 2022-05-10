@@ -5,8 +5,6 @@
 - 💬 ask me about anything, i am happy to help;
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=panda" align="right" width="330">
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=panda)](https://github.com/TheYuhan-Lu/github-readme-stats)
 <!--
 **TheYuhan-Lu/TheYuhan-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
