@@ -4,6 +4,10 @@
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
 
+
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
 <!--
 **TheYuhan-Lu/TheYuhan-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
