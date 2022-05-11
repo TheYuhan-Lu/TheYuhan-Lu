@@ -11,6 +11,10 @@
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheYuhan-Lu&bg_color=ffffff&color=4d9c28&line=240c61&point=FF901c&area=true&hide_border=true)](https://github.com/TheYuhan-Lu/github-readme-activity-graph)
+
+![](https://raw.githubusercontent.com/TheYuhan-Lu/TheYuhan-Lu/main/assets/github-contribution-grid-snake.svg)
+
+
 <!--
 **TheYuhan-Lu/TheYuhan-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
