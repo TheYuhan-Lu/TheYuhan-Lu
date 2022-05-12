@@ -14,6 +14,7 @@
 
 ![](https://raw.githubusercontent.com/TheYuhan-Lu/TheYuhan-Lu/main/assets/github-contribution-grid-snake.svg)
 
+![](https://gv.halberd.cn/TheYuhan-Lu?theme=stroke-colorful&active=240c61&deactive=ff901c&len=0&speed=40&size=60&space=5&tail=1)
 
 <!--
 **TheYuhan-Lu/TheYuhan-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
