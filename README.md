@@ -1,4 +1,5 @@
 # Hi there 👋
+😗You can know more about me by clicking [here](https://theyuhan-lu.github.io/)!
 
 <a href="https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=flag-india"><img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=flag-india" /></a>
 
