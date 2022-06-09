@@ -3,12 +3,13 @@
 
 <a href="https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=flag-india"><img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=TheYuhan-Lu&show_icons=true&theme=flag-india" /></a>
 
-- 🌱 A Student learning automation.
-     You can also find me in the following ways:
-  
-- 💼 
-- 💬 ask me about anything, i am happy to help, but...be ready to get nothing useful form me. orz
-- 
+----
+
+
+- 🌱 A student majoring in automation.
+- 🤔 Aiming at writing “Hello World” in one hundred languages.（5+5/100）
+- 💬 Ask me about anything, I'm willing to help, but...be ready to get nothing useful form me. orz
+
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheYuhan-Lu&bg_color=ffffff&color=4d9c28&line=240c61&point=FF901c&area=true&hide_border=true)](https://github.com/TheYuhan-Lu/github-readme-activity-graph)
